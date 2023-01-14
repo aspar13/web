@@ -1,0 +1,201 @@
+body{
+	margin:0;
+	text-align:center;
+	color:#40514E;
+	background-color:#c8c8c8;
+
+}
+
+html{
+	margin: 0;
+	
+}
+
+.top-container{
+	background-color:#A0C3D2;
+	padding:0px;
+	padding-bottom:10px;
+}
+
+.top-container h1{
+	color:#146356;
+	font-family: 'Kaushan Script', cursive;
+	margin:0;
+	font-size:3rem;
+	font-weight: normal;
+
+}
+
+.top-container p{
+	color:#146356;
+	margin-top: 5px;
+	margin-bottom: 0;
+	font-family: 'Kanit', sans-serif;
+	font-size: 1.3rem;
+}
+
+img{
+width: 100%;
+height:100%;
+
+}
+
+.logo{
+	margin-top:0 auto;
+/*	display: block;*/
+	width:30%;
+	margin-left:35%;
+}
+
+.emoji{
+	color:#B33030;
+
+}
+
+
+h2{
+	color:#146356;
+	font-size:2.5rem;
+	font-family:'Roboto';
+	
+}
+
+p{
+	line-height: 2;
+	font-size:1.2em;
+	font-family: sans-serif;
+}
+
+hr{
+	border:dotted 8px;
+	border-bottom:none;
+	width: 3% ;
+}
+
+.profile{
+	width: 50%;
+	margin:100px auto;
+	text-align: left;
+	
+
+}
+
+.profile-image{
+	width: 40%;
+	float: left;
+	margin-right:30px;
+}
+
+.project{
+	margin: 100px auto;
+}
+
+.project-row{
+	width: 50%;
+	margin:70px auto;
+	text-align:left;
+	
+}
+
+.bird{
+	padding-top:80px;
+	width:40%;
+	float:right;
+
+}
+
+.pro2_Img{
+	float: right;
+	width: 34%;
+}
+
+
+.tech-row{
+	width: 50%;
+	margin:100px auto;
+	text-align: left;
+	
+}
+
+.tech-image{
+	width: 40%;
+	float: left;
+	margin-right:30px;
+}
+
+.tech-row ul{
+	list-style-type: none;
+		font-size:1.2em;
+	font-family: 'Kanit', sans-serif;
+
+}
+.bottom-container{
+	background-color:#A0C3D2;
+	padding:50px 0 35px;
+
+}
+
+.bottom-container a{
+	text-decoration: none;
+}
+
+.other_socials{
+
+	margin-right:30px;
+	float: right;
+}
+
+
+.navbar{
+	background-color:#A0C3D2;
+}
+
+
+.navbar ul{
+	overflow: auto;
+	margin: 0;
+	padding: 0;
+	margin-left:5%;
+}
+
+.navbar li{
+	font-size:1.3rem;
+	float: left;
+	list-style: none;
+	padding: 35px 0 0 0;
+	margin-right: 7%;
+		}
+
+.navbar a{
+	font-family: 'Kanit', sans-serif;
+	color: #146356;
+	display: block;
+	text-decoration: none;
+		}
+
+
+
+
+.navbar_social{
+background-color: #A0C3D2;
+}
+
+.navbar_social ul{
+overflow: auto;
+margin: 0;
+padding: 0;
+}
+
+.navbar_social li{
+float: right;
+list-style: none;
+padding-top: 4px;
+margin-right: 2%;
+}
+  
+.navbar_social a{
+	display: block;
+	text-decoration: none;
+	fill: #146356;
+		}
+
